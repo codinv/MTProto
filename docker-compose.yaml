@@ -10,4 +10,4 @@ services:
     environment:
       - SECRET=auto    # or specify your own 32-character hex secret
       - PORT=8443
-      - WORKERS=1
+      - WORKERS=2
