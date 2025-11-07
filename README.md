@@ -17,7 +17,6 @@ The image includes `curl`, `wget`, and `iproute2` for IP detection and network s
 
 ```yaml
 # docker-compose.yml
-version: "3.8"
 services:
   mtproto:
     container_name: mtproto-proxy
